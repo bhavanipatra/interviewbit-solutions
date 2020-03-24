@@ -3,7 +3,7 @@ Solutions of most questions while practicing from interviewbit.com.
 
 You can find the questions pasted below from the website:
 
-Arrays/Add One To Number:
+Arrays/AddOneToNumber:
 ------------------------
 Given a non-negative number represented as an array of digits,
 add 1 to the number ( increment the number represented by the digits ).
